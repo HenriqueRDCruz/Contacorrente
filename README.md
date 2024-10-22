@@ -28,7 +28,7 @@ Todos os métodos relacionados a transações financeiras (sacar, depositar, env
 ## Instruções de Execução
 1. Compile o código:
    ```bash
-   javac App.java ContaCorrente.java
+   javac App.java
    ```
 2. Execute o programa:
    ```bash
