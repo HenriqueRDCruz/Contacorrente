@@ -32,7 +32,7 @@ Todos os métodos relacionados a transações financeiras (sacar, depositar, env
    ```
 2. Execute o programa:
    ```bash
-   java.App
+   App.java
    ```
 ## Exemplo de Execução
 ```text
